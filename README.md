@@ -1,4 +1,4 @@
-# Calamities-DBMS-
+# Natural Calamities -DBMS-
 •	Front-end tool: Tkinter
 •	Backend tool: MySQL
 •	Programming Language: Python.
